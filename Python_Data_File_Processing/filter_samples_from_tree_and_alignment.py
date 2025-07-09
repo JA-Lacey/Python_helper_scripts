@@ -2,7 +2,7 @@
 
 #!/usr/bin/env python3
 """
-filter_samples.py
+filter_samples_from_tree_and_alignments.py
 
 Filter out specified samples from a FASTA alignment and Newick tree.
 Usage:
